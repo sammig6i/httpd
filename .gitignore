@@ -385,3 +385,6 @@ test/*/*/__pycache__
 # make check
 check
 build/config_vars.out
+
+
+.vscode/
